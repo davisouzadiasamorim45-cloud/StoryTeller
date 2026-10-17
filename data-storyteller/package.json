@@ -1,0 +1,21 @@
+{
+  "name": "data-storyteller",
+  "version": "1.0.0",
+  "description": "Your spreadsheet has a story to tell — CSV upload turns into AI-narrated scroll-driven data narrative",
+  "private": true,
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "5.0.1",
+    "papaparse": "^5.4.1",
+    "recharts": "^2.12.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "browserslist": {
+    "production": [">0.2%", "not dead", "not op_mini all"],
+    "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"]
+  }
+}
